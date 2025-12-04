@@ -1,0 +1,20 @@
+# Virtual environment
+rep-env/
+env/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Heavy libs accidentally added
+*.pyd
+*.dll
+*.so
+
+# IDE files
+.vscode/
+.idea/
+
+# Large data (optional)
+data/videos/*
