@@ -4,7 +4,7 @@ A small experiment in using computer vision and MediaPipe to count strength trai
 
 This project was originally built for a live presentation at PyLadies ATX.
 
-As a product designer, this project was also an opportunity to explore interface possibilities, user flows, and how computer vision tools can support better training experiences.
+As a product designer, this project was also an opportunity to explore interface possibilities, user flows, and vision tools can support better training experiences.
 
 ---
 
